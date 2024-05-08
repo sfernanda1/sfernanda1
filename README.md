@@ -13,7 +13,7 @@ Hello 👋
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="caricatura" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/764222826952523808/897179296802684978/WhatsApp_Image_2021-10-11_at_14.15.11.jpeg">
+ 
 </div>
   
   ##
