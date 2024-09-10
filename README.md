@@ -1,6 +1,6 @@
 Hello 👋
 
-- 👩‍🎓 Bacheralor in systems analisis and development;
+- 👩‍🎓 Bachelor in systems analisis and development;
 - 🧗‍♀️ I work with front-end aplications.
 
 <div align="center">
