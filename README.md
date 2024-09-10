@@ -1,7 +1,7 @@
 Hello 👋
 
-- 👩‍🎓 Undergraduate student in systems analisis and development;
-- 🧗‍♀️ I’m currently learning React.
+- 👩‍🎓 Bacheralor in systems analisis and development;
+- 🧗‍♀️ I work with front-end aplications.
 
 <div align="center">
   <a href="https://github.com/sfernanda1">
